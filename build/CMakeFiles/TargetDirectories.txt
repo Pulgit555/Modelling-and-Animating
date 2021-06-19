@@ -1,0 +1,9 @@
+/home/pulkit/CG/2019101078_A0/build/CMakeFiles/rebuild_cache.dir
+/home/pulkit/CG/2019101078_A0/build/CMakeFiles/Assignment0.dir
+/home/pulkit/CG/2019101078_A0/build/CMakeFiles/edit_cache.dir
+/home/pulkit/CG/2019101078_A0/build/CMakeFiles/glad.dir
+/home/pulkit/CG/2019101078_A0/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/pulkit/CG/2019101078_A0/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/pulkit/CG/2019101078_A0/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/pulkit/CG/2019101078_A0/build/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/pulkit/CG/2019101078_A0/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
