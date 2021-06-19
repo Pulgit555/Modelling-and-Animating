@@ -1,5 +1,5 @@
 # Modelling and Animating 
-There are total 3 shapes are rendered on the screen out of which texture is used for shape 2 and colours used for 1 and 3rd shape.
+There are total 3 shapes are rendered on the screen (out of which texture is used for shape 2 and colours used for 1 and 3rd shape) using OpenGL pipeline.
 
 ## Key controls 
 * KEY_P-> key to move camera in postive x direction
